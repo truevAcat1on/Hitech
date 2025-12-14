@@ -21,7 +21,7 @@
 главная страница, каталог, карточка товара и корзина.
 
 <p align="center">
-  <img src="[Сайт](https://www.figma.com/design/ORkdwusJD0dRIuZ9grE9zL/Hitech?node-id=0-1&t=e5sd7vQfdHrhl4zx-1)" width="420">
+  <img src="./BPMN.png" alt="ER-диаграмма базы данных HITECH" width="520">
 </p>
 
 - Чёткая структура каталога и фильтров.  
@@ -35,7 +35,7 @@
 («User», «Customer», «Order», «Delivery» и др.).
 
 <p align="center">
-  <img src="./images/hitech-er.png" alt="ER-диаграмма базы данных HITECH" width="520">
+  <img src="./ER_diagram.png" alt="ER-диаграмма базы данных HITECH" width="520">
 </p>
 
 Ключевые решения:
