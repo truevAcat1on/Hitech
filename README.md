@@ -21,7 +21,7 @@
 главная страница, каталог, карточка товара и корзина.
 
 <p align="center">
-  <img src="[Прототип сайта HITECH](https://practicum.yandex.ru/)" alt="Прототип сайта HITECH Desctop версия" width="420">
+  <img src="[Сайт](https://www.figma.com/design/ORkdwusJD0dRIuZ9grE9zL/Hitech?node-id=0-1&t=e5sd7vQfdHrhl4zx-1)" width="420">
 </p>
 
 - Чёткая структура каталога и фильтров.  
