@@ -67,14 +67,18 @@
 
 <p align="center">
   <img src="./images/hitech-swagger.png" alt="Swagger спецификация API HITECH" width="520">
+  <img src="./images/hitech-swagger.png" alt="Swagger спецификация API HITECH" width="520">
+  <img src="./images/hitech-swagger.png" alt="Swagger спецификация API HITECH" width="520">
+  <img src="./images/hitech-swagger.png" alt="Swagger спецификация API HITECH" width="520">
+  <img src="./images/hitech-swagger.png" alt="Swagger спецификация API HITECH" width="520">
 </p>
 
 Примеры групп эндпоинтов:
 
-- `GET /products`, `GET /categories` — каталог и фильтрация  
-- `POST /cart/items`, `POST /orders` — управление корзиной и оформлением заказа  
-- `POST /auth/login`, `GET /profile` — авторизация и личный кабинет  
-- `POST /reviews`, `GET /products/{id}/reviews` — работа с отзывами  
+- DELETE /api/v1/cart/{itemId} — удалить товар из корзины.  
+- GET /api/v1/cart/summary — получить сводную информацию о корзине (общая сумма, количество товаров). 
+- POST /api/v1/cart/apply-discount — применить промокод/скидку к корзине.  
+- GET /api/v1/products/{id}/specifications — получить детальные характеристики товара  
 
 Для каждого эндпоинта описаны:
 
