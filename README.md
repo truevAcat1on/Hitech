@@ -66,11 +66,11 @@
 Для взаимодействия фронтенда и бэкенда спроектирован REST API (12 эндпоинтов) и описан в Swagger.
 
 <p align="center">
-  <img src="api_hitech_1.png" alt="Swagger спецификация API HITECH" width="520">
-  <img src="api_hitech_2.png" alt="Swagger спецификация API HITECH" width="520">
-  <img src="api_hitech_3.png" alt="Swagger спецификация API HITECH" width="520">
-  <img src="api_hitech_4.png" alt="Swagger спецификация API HITECH" width="520">
-  <img src="api_hitech_5.png" alt="Swagger спецификация API HITECH" width="520">
+  <img src="api_hitech_1.png" alt="Swagger спецификация API HITECH" width="1020">
+  <img src="api_hitech_2.png" alt="Swagger спецификация API HITECH" width="1020">
+  <img src="api_hitech_3.png" alt="Swagger спецификация API HITECH" width="1020">
+  <img src="api_hitech_4.png" alt="Swagger спецификация API HITECH" width="1020">
+  <img src="api_hitech_5.png" alt="Swagger спецификация API HITECH" width="1020">
 </p>
 
 Примеры групп эндпоинтов:
