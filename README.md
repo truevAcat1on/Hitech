@@ -21,11 +21,7 @@
 главная страница, каталог, карточка товара и корзина.
 
 <p align="center">
-  <img src="./images/BPMN.png" alt="Прототип сайта HITECH Desctop версия" width="420">
-</p>
-
-<p align="center">
-  <img src="./images/ER_diagram.png" alt="Прототип сайта HITECH Mobile версия" width="420">
+  <img src="[Прототип сайта HITECH](https://practicum.yandex.ru/)" alt="Прототип сайта HITECH Desctop версия" width="420">
 </p>
 
 - Чёткая структура каталога и фильтров.  
