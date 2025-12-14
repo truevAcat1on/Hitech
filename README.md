@@ -21,7 +21,7 @@
 главная страница, каталог, карточка товара и корзина.
 
 <p align="center">
-  <img src="./BPMN.png" alt="ER-диаграмма базы данных HITECH" width="520">
+  <img src="(https://disk.yandex.ru/d/PYoSam6aLT5Rgg)" alt="ER-диаграмма базы данных HITECH" width="520">
 </p>
 
 - Чёткая структура каталога и фильтров.  
