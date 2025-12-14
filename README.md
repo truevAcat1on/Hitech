@@ -21,12 +21,11 @@
 главная страница, каталог, карточка товара и корзина.
 
 <p align="center">
-  <img src="./images/hitech-main.png" alt="Прототип главной страницы HITECH" width="420">
+  <img src="(https://www.figma.com/design/ORkdwusJD0dRIuZ9grE9zL/Hitech?node-id=0-1&t=e5sd7vQfdHrhl4zx-1)" alt="Прототип сайта HITECH Desctop версия" width="420">
 </p>
 
 <p align="center">
-  <img src="./images/hitech-catalog.png" alt="Прототип каталога HITECH" width="420">
-  <img src="./images/hitech-product.png" alt="Прототип карточки товара HITECH" width="420">
+  <img src="./images/hitech-catalog.png" alt="Прототип сайта HITECH Mobile версия" width="420">
 </p>
 
 - Чёткая структура каталога и фильтров.  
@@ -36,8 +35,8 @@
 
 ## Модель данных (ER‑диаграмма)
 
-Для поддержки каталога, заказов и отзывов спроектирована ER‑диаграмма на 15 сущностей  
-(«Товары», «Категории», «Заказы», «Отзывы» и др.).
+Для поддержки каталога, заказов и отзывов спроектирована ER‑диаграмма 
+(«User», «Customer», «Order», «Delivery» и др.).
 
 <p align="center">
   <img src="./images/hitech-er.png" alt="ER-диаграмма базы данных HITECH" width="520">
