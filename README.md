@@ -33,7 +33,7 @@
 («User», «Customer», «Order», «Delivery» и др.).
 
 <p align="center">
-  <img src="./ER_diagram.png" alt="ER-диаграмма базы данных HITECH" width="520">
+  <img src="./ER_diagram.png" alt="ER-диаграмма базы данных HITECH" width="820">
 </p>
 
 Ключевые решения:
